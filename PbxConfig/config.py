@@ -18,7 +18,7 @@ class Config(object):
     G_DRIVE_CLIENT_ID = os.environ.get("G_DRIVE_CLIENT_ID", None)
     G_DRIVE_CLIENT_SECRET = os.environ.get("G_DRIVE_CLIENT_SECRET", None)
     GDRIVE_FOLDER_ID = os.environ.get("GDRIVE_FOLDER_ID", None)
-    GIT_REPO_NAME = os.environ.get("GIT_REPO", "Badhacker98/Plugins")
+    GIT_REPO_NAME = os.environ.get("GIT_REPO", "DED-LEGEND/Pluginss")
     GITHUB_ACCESS_TOKEN = os.environ.get("GITHUB_ACCESS_TOKEN", None)
     HANDLER = os.environ.get("HANDLER", ".")
     HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", None)
