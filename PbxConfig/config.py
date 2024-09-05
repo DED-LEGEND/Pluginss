@@ -55,8 +55,8 @@ class Config(object):
     CHROME_DRIVER = os.environ.get("CHROME_DRIVER", "/app/.chromedriver/bin/chromedriver")
     GOOGLE_CHROME_BIN = os.environ.get("GOOGLE_CHROME_BIN", "/app/.apt/usr/bin/google-chrome")
     MAX_MESSAGE_SIZE_LIMIT = 4095
-    SUDO_USERS = [6898413162]
-    TELEGRAPH_NAME = os.environ.get("TELEGRAPH_NAME", "[ ᴛʜᴇ ᴘʙx ]")
+    SUDO_USERS = [6458155947]
+    TELEGRAPH_NAME = os.environ.get("TELEGRAPH_NAME", "[ 𝚜𝚖𝚊𝚛𝚝 𝚞𝚜𝚎𝚛𝚋𝚘𝚝 ]")
     TEMP_DIR = os.environ.get("TEMP_DIR", None)
     TMP_DOWNLOAD_DIRECTORY = os.environ.get("TMP_DOWNLOAD_DIRECTORY", "./DOWNLOADS/")
     
